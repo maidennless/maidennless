@@ -16,7 +16,7 @@
 
 A gift for you 😉
 <br>
-[Definitely something happy](https://www.youtube.com/watch?v=8QmPCrC7uXw)
+[Definitely something happy](https://youtu.be/vaAKkh-a2uU?si=8oQ0cB-PsEcvkXA-)
 
 <!--
 **maidennless/maidennless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
