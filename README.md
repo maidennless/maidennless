@@ -1,34 +1,105 @@
-## Heyooo 👋
+<div align="center">
 
-<br>
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=maidennless&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38"/>
 
-**About Me:**
-* Studying Cyber Security
-* Like to play CTF's
-* I like playing Video Games :D
-* Also catch myself watching anime sometimes
-<br>
-<br>
-<br>
-<br>
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;CPTS+Certified;Anime+Enjoyer;Always+Breaking+Something" alt="Typing SVG" />
 
-A gift for you 😉
-<br>
-[Definitely something happy](https://youtu.be/vaAKkh-a2uU?si=8oQ0cB-PsEcvkXA-)
+</div>
 
-<!--
-**maidennless/maidennless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<table align="center">
+<tr>
+<td width="65%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+Hi, I'm maidennless. I'm a cybersecurity student who spends most of my time breaking things on purpose, then writing code to automate breaking them faster. I hold the **CPTS (Certified Penetration Testing Specialist)** certification, and I build tools around AD attack paths, OT/ICS security, and digital forensics.
+
+- 🎓 Cybersecurity student
+- 🏆 CPTS certified
+- 🔭 Currently building offensive security and forensics tooling
+- 🌱 Always learning new attack techniques and defenses
+- 💬 Ask me about Active Directory, penetration testing, or anime recommendations
+- 📫 Best way to reach me is through the links below
+- ⚡ I run on coffee and soundtrack playlists
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://github-readme-utils.vercel.app/api/gif/anime?type=coding" width="230" alt="anime coding gif"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,go,c,cpp,rust,linux,bash,git,docker&theme=dark" />
+
+
+
+
+<a href="https://www.credly.com/org/hack-the-box/badge/hack-the-box-certified-penetration-testing-specialist-htb-cpts">
+<img src="https://images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" width="110" alt="HTB CPTS Badge"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/Focus-Active%20Directory%20%7C%20OT%2FICS%20%7C%20Forensics%20%7C%20Pentesting-black?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Pinned Projects
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="70%" valign="top">
+
+**[RustHound](https://github.com/maidennless/RustHound)**
+Terminal-native BloodHound CE companion written in Rust. Parses SharpHound-CE collections and lets you explore the attack graph via a color-coded tree, BFS attack-path finder, offline analysis reports, or a full interactive terminal UI — no Neo4j or Electron required.
+
+**[EyeSeeS](https://github.com/maidennless/EyeSeeS)**
+Open-source OT/ICS security assessment framework. Discovers industrial assets, fingerprints devices, identifies supported protocols (Modbus, S7, BACnet, DNP3, OPC UA, and more), detects security weaknesses, and generates actionable reports for critical infrastructure environments.
+
+**[Android-Forensics-Acquisition](https://github.com/maidennless/Android-Forensics-Acquisition)**
+Python-based forensic acquisition tool for Android devices. Connects over ADB, pulls file system data and live artifacts from non-rooted devices, hashes every recovered file, and generates structured JSON logs and reports.
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://github-readme-utils.vercel.app/api/gif/anime?type=study" width="220" alt="anime studying gif"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## Contact
+
+<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+<sub>(replace the # links with your actual profiles)</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-utils.vercel.app/api/gif/anime?type=wave" width="200" alt="anime waving goodbye gif"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
